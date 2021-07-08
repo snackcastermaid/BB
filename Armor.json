@@ -1,15 +1,176 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 12500,
-		"karmatype": "Bad"
+		"abr": "BlackLeather",
+		"price": 400,
+		"karmatype": "Body Armor"
 	},
 	{
-		"abr": "tornados",
-		"price": 25000,
-		"karmatype": "Doom"
+		"abr": "reinforcedmailhauberk",
+		"price": 600,
+		"karmatype": "Body Armor"
+	},
+	{
+		"abr": "Platedfurarmor",
+		"price": 550,
+		"karmatype": "Body Armor"
+	},
+	{
+		"abr": "StuddedMail",
+		"price": 525,
+		"karmatype": "Body Armor"
+	},
+	{
+		"abr": "Skullarmor",
+		"price": 950,
+		"karmatype": "Body Armor"
+	},
+	{
+		"abr": "Heraldicmail",
+		"price": 1150,
+		"karmatype": "Body Armor"
+	},
+	{
+		"abr": "Brozeplate",
+		"price": 1400,
+		"karmatype": "Body Armor"
+	},
+	{
+		"abr": "Blackandgoldplate",
+		"price": 1525,
+		"karmatype": "Body Armor"
+	},
+	{
+		"abr": "Sellswordlayeredarmor",
+		"price": 1600,
+		"karmatype": "Body Armor"
+	},
+	{
+		"abr": "Goldlamellar",
+		"price": 1750,
+		"karmatype": "Body Armor"
+	},
+	{
+		"abr": "Leopardplatearmor",
+		"price": 1900,
+		"karmatype": "Body Armor"
+	},
+	{
+		"abr": "browncoatofplates",
+		"price": 1800,
+		"karmatype": "Body Armor"
+	},
+	{
+		"abr": "Lindwurmarmor",
+		"price": 1200,
+		"karmatype": "Body Armor"
+	},
+	{
+		"abr": "greencoatofplates",
+		"price": 2000,
+		"karmatype": "Body Armor"
+	},
+	{
+		"abr": "Goldenscale",
+		"price": 1250,
+		"karmatype": "Body Armor"
+	},
+	{
+		"abr": "conichelm",
+		"price": 315,
+		"karmatype": "Helmet"
+	},
+	{
+		"abr": "goldandblackhelm",
+		"price": 200,
+		"karmatype": "Helmet"
+	},
+	{
+		"abr": "goldenfeatherhelm",
+		"price": 155,
+		"karmatype": "Helmet"
+	},
+	{
+		"abr": "heraldicmailhelm",
+		"price": 325,
+		"karmatype": "Helmet"
+	},
+	{
+		"abr": "lindwurmhelmet",
+		"price": 150,
+		"karmatype": "Helmet"
+	},
+	{
+		"abr": "metalbullhelm",
+		"price": 300,
+		"karmatype": "Helmet"
+	},
+	{
+		"abr": "metalnose",
+		"price": 100,
+		"karmatype": "Helmet"
+	},
+	{
+		"abr": "metalskullhelm",
+		"price": 75,
+		"karmatype": "Helmet"
+	},
+	{
+		"abr": "nasalfeatherhelm ",
+		"price": 225,
+		"karmatype": "Helmet"
+	},
+	{
+		"abr": "norsehelm",
+		"price": 75,
+		"karmatype": "Helmet"
+	},
+	{
+		"abr": "nordichelm",
+		"price": 275,
+		"karmatype": "Helmet"
+	},
+	{
+		"abr": "rednandgoldhelm",
+		"price": 185,
+		"karmatype": "Helmet"
+	},
+	{
+		"abr": "salletgreen",
+		"price": 250,
+		"karmatype": "Helmet"
+	},
+	{
+		"abr": "steppehelm",
+		"price": 130,
+		"karmatype": "Helmet"
+	},
+	{
+		"abr": "wolfhelm",
+		"price": 180,
+		"karmatype": "Helmet"
+	},
+	{
+		"abr": "Heatershield",
+		"price": 400,
+		"karmatype": "Shield"
+	},
+	{
+		"abr": "Dragonshield",
+		"price": 450,
+		"karmatype": "Shield"
+	},
+	{
+		"abr": "Kiteshield",
+		"price": 450,
+		"karmatype": "Shield"
+	},
+	{
+		"abr": "Wingshield",
+		"price": 400,
+		"karmatype": "Shield"
+	
 	}
 	],
-	"total": 72
+	"total": 34
 }
