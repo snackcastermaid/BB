@@ -1,10 +1,15 @@
+{
+	"incitems" : [
+	{
+		"abr": "tornado",
+		"price": 12500,
+		"karmatype": "Bad"
 	},
 	{
-		"abr": "zygolophodontusk",
-		"price": 1667,
-		"category": "Items",
-		"defname": "ZygolophodonTusk"
+		"abr": "tornados",
+		"price": 25000,
+		"karmatype": "Doom"
 	}
 	],
-	"total": 1
+	"total": 72
 }
