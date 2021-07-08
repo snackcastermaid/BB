@@ -372,8 +372,8 @@
 	 let raceList = null;
         $.getJSON(raceListURL, function(data) {
 	var options = {
-	valueNames: ['name', 'price'],
-	item: '<tr><td class="name" scope="row"></td><td class="price"></td></tr>'
+	valueNames: ['name', 'enabled', 'price'],
+	item: '<tr><td class="name" scope="row"></td><td class="enabled"></td><td class="price"></td></tr>'
 	 };
 	var raceData = [];
 	 $.each(data.races, function(index, value) {
