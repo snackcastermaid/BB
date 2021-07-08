@@ -2,18 +2,29 @@
   "traits": [
     {
      
+"canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "name": "bloodlust",
-      "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others."
-    },
-    {
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "name": "bloodlust",
-      "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others."
+      "defName": "Psychopath",
+      "degree": 0,
+      "name": "psychopath",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ]
+      },
+      "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false
       
        }
   ],
-  "total": 2
+  "total": 1
 }
