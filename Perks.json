@@ -2,17 +2,16 @@
   "traits": [
     {
      
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "name": "bloodlust",
-      "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others."
-      
+      "addPrice": 150,
+      "removePrice": 1,
+      "name": "Fastadaptation",
+      "description": "Gain an additional stacking +10% chance to hit with each attack that misses an opponent. Bonus is reset upon landing a hit. Note: For the purposes of a reset on ranged attacks, hitting terrain blocking the target or a scattered shot counts as a hit and will reset the counter." 
     },
     {
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "name": "bloodlust",
-      "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others."
+      "addPrice": 100,
+      "removePrice": 1,
+      "name": "Cripplingstrikes",
+      "description": "Lowers the threshold to inflict injuries by 33% for both melee and ranged attacks. Note: some enemies are immune to injuries or have very large health pool that protects them from receiving injuries."
       
        }
   ],
