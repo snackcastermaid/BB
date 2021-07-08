@@ -1,0 +1,16 @@
+{
+"races": [
+      {
+        
+      "price": 2500,
+      "defName": "Human",
+      "enabled": true,
+      "name": "Human",
+      "data": {
+        "customName": true
+      }
+    }
+   
+  ],
+  "total": 1
+}
