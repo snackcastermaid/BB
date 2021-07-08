@@ -1,17 +1,227 @@
 {
 	"items" : [
 	{
-		"abr": "beer",
-		"price": 20,
-		"category": "Drugs",
-		"defname": "Beer"
+		"abr": "Dagger",
+		"price": 150,
+		"category": "Dagger, 1-hand",
+		"defname": "alpha1"
 	},
 	{
-		"abr": "wort",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "Wort"
+		"abr": "QatalDagger",
+		"price": 200,
+		"category": "Dagger, 1-hand",
+		"defname": "alpha2"
+	},
+	{
+		"abr": "Khopesh",
+		"price": 525,
+		"category": "Cleaver, 1-hand",
+		"defname": "alpha3"
+	},
+	{
+		"abr": "Cleaver",
+		"price": 650,
+		"category": "Cleaver, 1-hand",
+		"defname": "alpha4"
+	},
+	{
+		"abr": "BattleWhip",
+		"price": 500,
+		"category": "Cleaver, 1-hand",
+		"defname": "alpha5"
+	},
+	{
+		"abr": "RustyWarblade",
+		"price": 650,
+		"category": "Cleaver, 2-hand",
+		"defname": "alpha6"
+	},
+	{
+		"abr": "2handedscimitar",
+		"price": 800,
+		"category": "Cleaver, 2-hand",
+		"defname": "alpha7"
+	},
+	{
+		"abr": "CryptCleaver",
+		"price": 900,
+		"category": "Cleaver, 2-hand",
+		"defname": "alpha8"
+	},
+	{
+		"abr": "LongAxe",
+		"price": 400,
+		"category": "Axe, 2-hand",
+		"defname": "alpha9"
+	},
+	{
+		"abr": "Axe",
+		"price": 750,
+		"category": "Axe, 1-hand",
+		"defname": "alpha10"
+	},
+	{
+		"abr": "Bardiche",
+		"price": 800,
+		"category": "Axe, 2-hand",
+		"defname": "alpha11"
+	},
+	{
+		"abr": "GreatAxe",
+		"price": 100,
+		"category": "Axe, 2-hand",
+		"defname": "alpha12"
+	},
+	{
+		"abr": "GoblinFalchion",
+		"price": 250,
+		"category": "Sword, 1-hand",
+		"defname": "alpha13"
+	},
+	{
+		"abr": "Greatsword",
+		"price": 1000,
+		"category": "Sword, 2-hand",
+		"defname": "alpha14"
+	},
+	{
+		"abr": "Sword",
+		"price": 850,
+		"category": "Sword, 1-hand",
+		"defname": "alpha15"
+	},
+	{
+		"abr": "Shamshir",
+		"price": 750,
+		"category": "Sword, 1-hand",
+		"defname": "alpha16"
+	},
+	{
+		"abr": "Warbrand",
+		"price": 650,
+		"category": "Sword, 2-hand",
+		"defname": "alpha17"
+	},
+	{
+		"abr": "Mace",
+		"price": 600,
+		"category": "Mace, 1-hand",
+		"defname": "alpha18"
+	},
+	{
+		"abr": "Polemace",
+		"price": 650,
+		"category": "Mace, 2-hand",
+		"defname": "alpha19"
+	},
+	{
+		"abr": "Twohandskullmace",
+		"price": 600,
+		"category": "Mace, 2-hand",
+		"defname": "alpha20"
+	},
+	{
+		"abr": "2handedmace",
+		"price": 850,
+		"category": "Mace, 2-hand",
+		"defname": "alpha21"
+	},
+	{
+		"abr": "Flail",
+		"price": 400,
+		"category": "Flail, 1-hand",
+		"defname": "alpha22"
+	},
+	{
+		"abr": "3headedflail",
+		"price": 670,
+		"category": "Flail, 1-hand",
+		"defname": "alpha23"
+	},
+	{
+		"abr": "2handedflail",
+		"price": 750,
+		"category": "Flail, 2-hand",
+		"defname": "alpha24"
+	},
+	{
+		"abr": "Warscythe",
+		"price": 900,
+		"category": "Polearm, 2-hand",
+		"defname": "alpha25"
+	},
+	{
+		"abr": "Pike",
+		"price": 600,
+		"category": "Polearm, 2-hand",
+		"defname": "alpha26"
+	},
+	{
+		"abr": "Swordlance",
+		"price": 875,
+		"category": "Polearm, 2-hand",
+		"defname": "alpha27"
+	},
+	{
+		"abr": "Billhook",
+		"price": 500,
+		"category": "Polearm, 2-hand",
+		"defname": "alpha28"
+	},
+	{
+		"abr": "Goblinspear",
+		"price": 300,
+		"category": "Spear, 1-hand",
+		"defname": "alpha29"
+	},
+	{
+		"abr": "Spear",
+		"price": 600,
+		"category": "Spear, 1-hand",
+		"defname": "alpha30"
+	},
+	{
+		"abr": "Spectum",
+		"price": 800,
+		"category": "Spear, 2-hand",
+		"defname": "alpha31"
+	},
+	{
+		"abr": "Goblinbow",
+		"price": 400,
+		"category": "Bow, 2-hand",
+		"defname": "alpha32"
+	},
+	{
+		"abr": "Warbow",
+		"price": 1000,
+		"category": "Bow, 2-hand",
+		"defname": "alpha33"
+	},
+	{
+		"abr": "Crossbow",
+		"price": 650,
+		"category": "Crossbow, 2-hand",
+		"defname": "alpha34"
+	},
+	{
+		"abr": "Handcannon",
+		"price": 900,
+		"category": "Crossbow, 2-hand",
+		"defname": "alpha35"
+	},
+	{
+		"abr": "Throwingaxes",
+		"price": 350,
+		"category": "Thrown, 1-hand",
+		"defname": "alpha36"
+	},
+	{
+		"abr": "Javelins",
+		"price": 375,
+		"category": "Thrown, 1-hand",
+		"defname": "alpha37"
 	}
 	],
-	"total": 2
+	"total": 37
 }
