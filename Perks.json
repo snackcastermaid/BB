@@ -114,28 +114,24 @@
       "removePrice": 3,
       "name": "Anticipation",
       "description": "When being attacked with ranged weapons, gain 1 + 10% of your base Ranged Defense as additional Ranged Defense per tile that the attacker is away, bonus is minimum +10 Ranged Defense."   
-
  },
     {
       "addPrice": 175,
       "removePrice": 3,
       "name": "Shieldexpert",
       "description": "The shield defense bonus is increased by 25%. This also applies to the additional defense bonus of the Shieldwall skill.Shield damage received is reduced by 50% to a minimum of 1. The 'Knock Back' skill gains +15% chance to hit."   
-
  },
     {
       "addPrice": 150,
       "removePrice": 3,
       "name": "Brawny",
       "description": "The Fatigue and Initiative penalty from wearing armor and helmet is reduced by 30%."   
-
  },
     {
       "addPrice": 150,
       "removePrice": 3,
       "name": "Relentless",
       "description": "At all times your Initiative is reduced only by 50% of your accumulated Fatigue, instead of all of it. Using the 'Wait' command no longer gives you a −25% penalty to Initiative when determining the turn order on the next round."   
-
  },
     {
       "addPrice": 175,
@@ -269,14 +265,12 @@
       "removePrice": 6,
       "name": "Headhunter",
       "description": "Hitting the head of a target will give you a guaranteed hit to the head also with your next attack. Connecting with your hit, or missing with your attack, will reset the effect."       
-
  },
     {
       "addPrice": 250,
       "removePrice": 6,
       "name": "Nimble",
       "description": "Specialize in light armor! Hitpoint damage taken is reduced by up to 60%, but lowered exponentially by the total penalty to Maximum Fatigue from body and head armor above 15. The lighter your armor and helmet, the more you benefit. Perk Brawny does not affect this perk. Does not affect damage from mental attacks or status effects."       
-
  },
     {
       "addPrice": 250,
@@ -308,7 +302,6 @@
       "removePrice": 7,
       "name": "Indomitable",
       "description": "Unlocks the 'Indomitable' skill (costs 5 Action Points and 25 Fatigue) which grants a 50% damage reduction and immunity to being stunned, knocked back or grabbed for one turn. The character attracts less attention from opponents."         
-       
        }
   ],
   "total": 50
