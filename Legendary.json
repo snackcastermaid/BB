@@ -2,15 +2,99 @@
 "races": [
       {
         
-      "price": 2500,
-      "defName": "Human",
-      "enabled": true,
-      "name": "Human",
-      "data": {
-        "customName": true
-      }
-    }
-   
+       "price": 20000,
+      "enabled": "Legendary Body Armor',
+      "name": "EmperorArmor"
+	},
+	{
+      "price": 18500,
+      "enabled": "Legendary Body Armor",
+      "name": "DavkulArmor"
+	},
+	{
+      "price": 15000,
+      "enabled": "Legendary Body Armor",
+      "name": "IjirokArmor"
+	},
+	{
+      "price": 10000,
+      "enabled": "Legendary Helmet",
+      "name": "EmperorHelm"
+	},
+	{
+      "price": 9500,
+      "enabled": "Legendary Helmet",
+      "name": "DavkulHelm"
+	},
+	{
+      "price": 7500,
+      "enabled": "Legendary Helmet",
+      "name": "Ijirokhelm"
+	},
+	{
+      "price": 5000,
+      "enabled": "Legendary Dagger",
+      "name": "ObsidianDagger"
+	{
+      "price": 14500,
+      "enabled": "Legendary Sword",
+      "name": "Reproachoftheoldgods"
+	},
+	{
+      "price": 9500,
+      "enabled": "Legendary Shield",
+      "name": "GildersEmbrace"
+	},
+	{
+      "price": 4000,
+      "enabled": "Legendary Shield",
+      "name": "Livingtree"
+	},
+	{
+      "price": 300,
+      "enabled": "Companion",
+      "name": "Wardog"
+	},
+	{
+      "price": 350,
+      "enabled": "Companion",
+      "name": "Wolf"
+	},
+	{
+      "price": 400,
+      "enabled": "Companion",
+      "name": "Warhound"
+	},
+	{
+      "price": 250,
+      "enabled": "Companion",
+      "name": "Falcon"
+	},
+	{
+      "price": 250,
+      "enabled": "Trophy: Immunity to movement restriction effects",
+      "name": "Goblintrophy"
+	},
+	{
+      "price": 450,
+      "enabled": "Trophy: Immunity to stun effects",
+      "name": "Orctrophy"
+	},
+	{
+      "price": 350,
+      "enabled": "Trophy: Doubles resistance to psychological effects",
+      "name": "undeadtrophy"
+	},
+	{
+      "price": 400,
+      "enabled": "Trophy: +10 resolve",
+      "name": "Sergeantsash"
+	},
+	{
+      "price": 300,
+      "enabled": "Trophy: +6 resolve",
+      "name": "Hexennecklace"
+    } 
   ],
-  "total": 1
+  "total": 20
 }
