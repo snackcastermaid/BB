@@ -1,0 +1,58 @@
+{
+  "traits": [
+    {
+     
+     
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Nudist",
+      "degree": 0,
+      "name": "nudist",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Bloodlust",
+      "degree": 0,
+      "name": "bloodlust",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "animalfriend",
+          "charismatic",
+          "verycharismatic"
+        ],
+        "customName": false,
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ]
+      },
+      "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others.",
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "conflicts": [
+        "animalfriend",
+        "charismatic",
+        "verycharismatic"
+      ],
+      "bypassLimit": false
+      
+       }
+  ],
+  "total": 2
+}
